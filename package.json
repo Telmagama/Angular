@@ -1,0 +1,14 @@
+{
+  "name": "exercise_angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "["
+  },
+  "author": "Telma Gama",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.8"
+  }
+}
